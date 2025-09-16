@@ -21,6 +21,7 @@ const[searchTerm, setSearchTerm] = useState('')
       </header>
 
      </div>
+     <h1 className='text-white'>{searchTerm}</h1>
     </div>
     </main>
   ) 

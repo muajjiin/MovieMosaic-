@@ -20,7 +20,7 @@
 
   --breakpoint-xs: 480px;
 
-  --background-image-hero-pattern: url("/hero-bg.png");
+  --background-image-hero-pattern: url("/BG.jpg");
 }
 
 @layer base {
@@ -162,6 +162,5 @@
   &::-webkit-scrollbar {
     display: none;
   }
-}@tailwind base;
-@tailwind components;
-@tailwind utilities;
+}
+ 
